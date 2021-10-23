@@ -1,0 +1,131 @@
+Acapulco,Chilpancingo,129
+Acayucan,Tehuantepec,201
+Acayucan,Tuxtla Gutiérrez,275
+Acayucan,Villa Hermosa,236
+Agua Prieta,Santa Ana,236
+Aguascalientes,Guadalajara,250
+Aguascalientes,Guanajuato,182
+Alvarado,Acayucan,248
+Alvarado,Oaxaca,339
+Atlacomulco,Querétaro,120
+Campeche,Ciudad del Carmen,225
+Cancún,Valladolid,161
+Chetumal,Campeche,350
+Chetumal,Felipe Carrillo Puerto,153
+Chetumal,Mérida,301
+Chihuahua,Janos,320
+Chihuahua,Juárez,354
+Chihuahua,Ojinaga,217
+Chilpancingo,Iguala,100
+Ciudad Altamirano,Cuernavaca,102
+Ciudad Altamirano,Toluca,180
+Ciudad Altamirano,Zihuatanejo,183
+Ciudad del Carmen,Villa Hermosa,168
+Ciudad Obregón,Guaymas,127
+Ciudad Victoria,Matamoros,312
+Ciudad Victoria,Soto la Marina,121
+Ciudad Victoria,Tampico,243
+Colima,Morelia,315
+Colima,Playa Azul,250
+Córdoba,Veracruz,70
+Culiacán,Hidalgo del Parral,500
+Culiacán,Topolobampo,206
+Durango,Mazatlán,283
+Durango,Torreón,229
+Ensenada,San Quintín,190
+Felipe Carrillo Puerto,Cancún,226
+Felipe Carrillo Puerto,Valladolid,160
+Francisco Escárcega,Chetumal,273
+Guadalajara,Colima,401
+Guadalajara,Manzanillo,278
+Guadalajara,Salamanca,260
+Guadalajara,Tepic,227
+Guanajuato,Salamanca,61
+Guaymas,Hermosillo,142
+Hermosillo,Santa Ana,277
+Hidalgo del Parral,Chihuahua,187
+Hidalgo del Parral,Durango,430
+Hidalgo del Parral,Topolobampo,380
+Huizache,Ciudad Victoria,238
+Huizache,San Luis Potosí,125
+Iguala,Ciudad Altamirano,179
+Iguala,Cuernavaca,122
+Izúcar de Matamoros,Cuernavaca,121
+Jalapa,Tlaxcala,189
+Janos,Agua Prieta,179
+Juárez,Janos,161
+La Paz,Cabo San Lucas,163
+Manzanillo,Colima,80
+Manzanillo,Playa Azul,275
+Matamoros,Reynosa,98
+Mazatlán,Culiacán,270
+Mazatlán,Tepic,278
+Mérida,Campeche,192
+Mexicalli,San Felipe,204
+Mexicalli,Tijuana,189
+México,Cuernavaca,76
+México,Pachuca,115
+México,Puebla,133
+México,Querétaro,215
+México,Tlaxcala,156
+México,Toluca,66
+Monclova,Piedras Negras,236
+Monclova,Torreón,332
+Monterrey,Ciudad Victoria,310
+Monterrey,Monclova,194
+Monterrey,Nuevo Laredo,230
+Morelia,Playa Azul,369
+Morelia,Salamanca,111
+Nuevo Laredo,Piedras Negras,164
+Oaxaca,Izúcar de Matamoros,304
+Oaxaca,Puerto Angel,170
+Oaxaca,Tehuacán,140
+Pachuca,Tuxpan,261
+Pinotepa Nacional,Acapulco,259
+Playa Azul,Zihuatanejo,136
+Puebla,Córdoba,188
+Puebla,Izúcar de Matamoros,115
+Puerto Angel,Pinotepa Nacional,387
+Puerto Vallarta,Manzanillo,267
+Reynosa,Nuevo Laredo,237
+Salamanca,Querétaro,87
+Saltillo,Huizache,344
+Saltillo,Monclova,203
+Saltillo,Monterrey,86
+San Felipe,Ensenada,251
+San Luis Potosí,Aguascalientes,188
+San Luis Potosí,Querétaro,205
+San Luis Potosí,Zacatecas,128
+San Quintín,Santa Rosalía,605
+Santa Ana,Sonoíta,362
+Santa Rosalía,Santo Domingo,317
+Santo Domingo,La Paz,236
+Sonoíta,Mexicalli,271
+Tampico,Querétaro,380
+Tampico,San Luis Potosí,254
+Tapachula,Tuxtla Gutiérrez,492
+Tehuacán,Córdoba,120
+Tehuacán,Puebla,90
+Tehuantepec,Oaxaca,264
+Tehuantepec,Puerto Angel,194
+Tehuantepec,Tapachula,418
+Tepic,Puerto Vallarta,169
+Tijuana,Ensenada,108
+Toluca,Atlacomulco,67
+Toluca,Morelia,243
+Topolobampo,Ciudad Obregón,201
+Torreón,Chihuahua,460
+Torreón,Saltillo,277
+Tuxpan,Tampico,193
+Tuxpan,Veracruz,313
+Tuxtla Gutiérrez,Villa Hermosa,395
+Valladolid,Mérida,180
+Veracruz,Alvarado,150
+Veracruz,Jalapa,119
+Villa Hermosa,Francisco Escárcega,304
+Zacatecas,Aguascalientes,128
+Zacatecas,Durango,289
+Zacatecas,Guadalajara,318
+Zacatecas,Saltillo,363
+Zacatecas,Torreón,376
+Zihuatanejo,Acapulco,239
